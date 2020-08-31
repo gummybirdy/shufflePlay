@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1598911220595.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "DA0D744D",
+    "lastKnownWriteTime" : 1598911336,
+    "last_content_update" : 1598911336613,
+    "path" : "~/R/shuffleplay/playlist_shuffle.Rmd",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "206,0",
+        "scrollLine" : "190"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
