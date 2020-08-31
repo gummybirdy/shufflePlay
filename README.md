@@ -266,5 +266,15 @@ They are likely to vary by purpose, and also likely to have a better
 tuning for general purposes. Again, that’s out of scope, and in a sense
 outside my expertise.
 
-As a last word, the R Markdown file that generated this readme is
-included, with all code visible, for further examination.
+#### Appendix C: Notes for Users
+
+For one, the R Markdown file that generated this readme is included,
+with all code unobfuscated, for your enjoyment.
+
+For two, due to the structure of the repository, installing the package
+is a bit abnormal. Using the R library
+<font style="font-family: monaco, monospace">devtools</font>, the
+command
+<font style="font-family: monaco, monospace">install\_github(“andrewjmorse/shufflePlay/shuffleplay”)</font>
+will install the shuffleplay package, as it is a subdirectory in the
+repository.
