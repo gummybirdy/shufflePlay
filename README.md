@@ -275,6 +275,6 @@ For two, due to the structure of the repository, installing the package
 is a bit abnormal. Using the R library
 <font style="font-family: monaco, monospace">devtools</font>, the
 command
-<font style="font-family: monaco, monospace">install\_github(“andrewjmorse/shufflePlay/shuffleplay”)</font>
+<font style="font-family: monaco, monospace">install\_github(“gummybirdy/shufflePlay/shuffleplay”)</font>
 will install the shuffleplay package, as it is a subdirectory in the
 repository.
